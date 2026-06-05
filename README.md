@@ -22,4 +22,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=MADESHKANNA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=madeshkanna&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=MADESHKANNA&label=Profile%20Views&color=0e75b6&style=flat)
